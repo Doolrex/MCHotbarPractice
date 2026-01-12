@@ -6,6 +6,12 @@ This is a lightweight minigame designed to help you **master your Minecraft hotb
 
 I originally created this tool to help me get used to a new keybinds I was trying out, keeping it as simple and fast as possible to hop in and practice at any time. Whether you are learning a new layout or just want to improve your reaction speed with your current setup, this tool is for you.
 
+<p align="center">
+  <img src="docs/gameplay_demo.gif" alt="Gameplay Demo" width="600">
+  <br>
+  <i>Practicing speed and accuracy at 20 TPS.</i>
+</p>
+
 ## 🚀 Features
 
 * **Minecraft Logic:** Runs on a faithful **20 TPS (Ticks Per Second)** loop.
